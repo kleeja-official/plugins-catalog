@@ -2,6 +2,7 @@
 {
     "type": "plugin",
     "name": "advanced_extras",
+    "icon": "https://raw.githubusercontent.com/kleeja-official/advanced-extras/master/icon.png",
     "title": {
         "en": "Advanced Extras",
         "ar": "هيدر وفوتر إضافي متفدم"
@@ -23,6 +24,7 @@
 {
     "type": "plugin",
     "name": "kj_amp_seo",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-amp-seo/master/icon.png",
     "title": {
         "en": "KJ AMP SEO",
         "ar": "AMP سيو"
@@ -44,6 +46,7 @@
 {
     "type": "plugin",
     "name": "kj_ban_admin",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-ban-admin/master/icon.png",
     "title": {
         "en": "Kleeja Admin Firewall",
         "ar": "جدار أمني للوحة كليجا"
@@ -65,6 +68,7 @@
 {
     "type": "plugin",
     "name": "kj_download_speed_limit",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-download-speed-limit/master/icon.png",
     "title": {
         "en": "KJ Download Speed Limit",
         "ar": "تحديد سرعة التحميل"
@@ -86,6 +90,7 @@
 {
     "type": "plugin",
     "name": "kj_ftp",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-ftp/master/icon.png",
     "title": {
         "en": "Kleeja Multi-FTP Uploading",
         "ar": "تحميل FTP متعدد"
@@ -107,6 +112,7 @@
 {
     "type": "plugin",
     "name": "kj_meta_seo",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-meta-seo/master/icon.png",
     "title": {
         "en": "KJ Meta SEO",
         "ar": "ميتا سيو"
@@ -128,6 +134,7 @@
 {
     "type": "plugin",
     "name": "kj_recaptcha",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-recaptcha/master/icon.png",
     "title": {
         "en": "KJ reCaptcha",
         "ar": "كليجا ريكابتشا"
@@ -149,6 +156,7 @@
 {
     "type": "plugin",
     "name": "kj_sitemap_seo",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-sitemap-seo/master/icon.png",
     "title": {
         "en": "KJ SiteMap SEO",
         "ar": "كليجا سايت ماب سيو"
@@ -170,6 +178,7 @@
 {
     "type": "plugin",
     "name": "kj_x_sendfile",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kj-x-sendfile/master/icon.png",
     "title": {
         "en": "Kleeja X SendFile",
         "ar": "كليجا إكس سيند فايل"
@@ -191,6 +200,7 @@
 {
     "type": "plugin",
     "name": "klj_adfly",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/klj-adfly/master/icon.png",
     "title": {
         "en": "adf.ly for Kleeja",
         "ar": "روابط adf.ly لكليجا"
@@ -212,6 +222,7 @@
 {
     "type": "plugin",
     "name": "language_switch",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/language-switch/master/icon.png",
     "title": {
         "en": "Language Switch",
         "ar": "تغيير اللغة"
@@ -233,6 +244,7 @@
 {
     "type": "plugin",
     "name": "menu_toggle",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/menu-toggle/master/icon.png",
     "title": {
         "en": "Menu Toggle",
         "ar": "عرض/إخفاء القوائم"
@@ -254,6 +266,7 @@
 {
     "type": "plugin",
     "name": "pdf_viewer",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/pdf-viewer/master/icon.png",
     "title": {
         "en": "PDF Viewer",
         "ar": "عارض بي دي أف"
@@ -275,6 +288,7 @@
 {
     "type": "plugin",
     "name": "rebrandly",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/rebrandly/master/icon.png",
     "title": {
         "en": "Rebrandly for Kleeja",
         "ar": "Rebrandly لكليجا"
@@ -296,6 +310,7 @@
 {
     "type": "plugin",
     "name": "video_player",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/video-player/master/icon.png",
     "title": {
         "en": "Video & Audio Player",
         "ar": "مشغل فيديو وصوت"
