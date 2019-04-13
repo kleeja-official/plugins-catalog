@@ -1,0 +1,317 @@
+[
+{
+    "type": "plugin",
+    "name": "advanced_extras",
+    "title": {
+        "en": "Advanced Extras",
+        "ar": "هيدر وفوتر إضافي متفدم"
+    },
+    "description": {
+        "en": "An advanced interface for the extra templates feature",
+        "ar": "واجهة متقدمة لصفحة هيدر وفوتر إضافيين"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/advanced-extras/archive/1.0.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_amp_seo",
+    "title": {
+        "en": "KJ AMP SEO",
+        "ar": "AMP سيو"
+    },
+    "description": {
+        "en": "Add AMP support to download pages to enhance SEO for Kleeja",
+        "ar": "دعم الـ AMP لصفحات التحميل لدعم السيو في كليجا"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/kj-amp-seo/archive/1.1.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_ban_admin",
+    "title": {
+        "en": "Kleeja Admin Firewall",
+        "ar": "جدار أمني للوحة كليجا"
+    },
+    "description": {
+        "en": "Ban a user after so many invalid login attempts to Kleeja control panel",
+        "ar": "حظر أي مستخدم يحاول الدخول للوحة كليجا بعد عدة محاولات خاطئة"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/kj-ban-admin/archive/1.0.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_download_speed_limit",
+    "title": {
+        "en": "KJ Download Speed Limit",
+        "ar": "تحديد سرعة التحميل"
+    },
+    "description": {
+        "en": "Limit files download speed for each group",
+        "ar": "تحديد سرعة تحميل الملفات لكل مجموعة"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/kj-download-speed-limit/archive/1.1.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_ftp",
+    "title": {
+        "en": "Kleeja Multi-FTP Uploading",
+        "ar": "تحميل FTP متعدد"
+    },
+    "description": {
+        "en": "Add Multi-FTP support to Kleeja",
+        "ar": "إضافة دعم التحميل لعدة FTP  في كليجا"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/kj-ftp/archive/1.1.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_meta_seo",
+    "title": {
+        "en": "KJ Meta SEO",
+        "ar": "ميتا سيو"
+    },
+    "description": {
+        "en": "Meta fields plugin to enhance SEO for Kleeja",
+        "ar": "إضافة الميتا الدسكربشن و الكييورزد لكليجا"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/kj-meta-seo/archive/1.0.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_recaptcha",
+    "title": {
+        "en": "KJ reCaptcha",
+        "ar": "كليجا ريكابتشا"
+    },
+    "description": {
+        "en": "Add reCaptcha to Kleeja",
+        "ar": "إضافة ريكابتشا لكليجا"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.3",
+        "url": "https://github.com/kleeja-official/kj-recaptcha/archive/1.3.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_sitemap_seo",
+    "title": {
+        "en": "KJ SiteMap SEO",
+        "ar": "كليجا سايت ماب سيو"
+    },
+    "description": {
+        "en": "Generate a sitemap and promote your content by notifying (ping) the search engine once at every new content addition to Kleeja",
+        "ar": "إنشاء سايت ماب لكليجا وإمكانية بينق محركات البحث بعد كل إضافة محتوى جديد"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/kj-sitemap-seo/archive/1.0.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "kj_x_sendfile",
+    "title": {
+        "en": "Kleeja X SendFile",
+        "ar": "كليجا إكس سيند فايل"
+    },
+    "description": {
+        "en": "Enable x-sendfile or X-Accel-Redirect for both Apache or Nginx for better performance.",
+        "ar": "كليجا إكس سيند فايل"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/kj-x-sendfile/archive/1.0.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "klj_adfly",
+    "title": {
+        "en": "adf.ly for Kleeja",
+        "ar": "روابط adf.ly لكليجا"
+    },
+    "description": {
+        "en": "Generate a links using adf.ly service",
+        "ar": "دعم Adf.ly في كليجا وإنشاء روابط ربحية تلقائياً"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/klj-adfly/archive/1.1.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "language_switch",
+    "title": {
+        "en": "Language Switch",
+        "ar": "تغيير اللغة"
+    },
+    "description": {
+        "en": "A language switch box in the top of every page",
+        "ar": "صندوق تغيير لغة في أعلى كل صفحة"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/language-switch/archive/1.1.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "menu_toggle",
+    "title": {
+        "en": "Menu Toggle",
+        "ar": "عرض/إخفاء القوائم"
+    },
+    "description": {
+        "en": "Ability to hide/show Kleeja Menu items",
+        "ar": "القدرة على عرض/إخفاء عناصر قائمة كليجا"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/menu-toggle/archive/1.1.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "pdf_viewer",
+    "title": {
+        "en": "PDF Viewer",
+        "ar": "عارض بي دي أف"
+    },
+    "description": {
+        "en": "Integrate a PDF viewer in download page",
+        "ar": "عرض عارض ملفات بي دي اف في صفحة التحميل"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/pdf-viewer/archive/1.1.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "rebrandly",
+    "title": {
+        "en": "Rebrandly for Kleeja",
+        "ar": "Rebrandly لكليجا"
+    },
+    "description": {
+        "en": "Generate a short links using Rebrandly service",
+        "ar": "إنشاء روابط قصيرة من خدمة Rebrandly "
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/rebrandly/archive/1.0.zip"
+    }
+},
+{
+    "type": "plugin",
+    "name": "video_player",
+    "title": {
+        "en": "Video & Audio Player",
+        "ar": "مشغل فيديو وصوت"
+    },
+    "description": {
+        "en": "Integrate a video player in download page",
+        "ar": "عرض مشغل فيديو في صفحة التحميل"
+    },
+    "developer": "Kleeja Team",
+    "website": "",
+    "kleeja_version": {
+        "min": "3.0", "max": "3.9"
+    },
+    "file": {
+        "version": "1.1",
+        "url": "https://github.com/kleeja-official/video-player/archive/1.1.zip"
+    }
+}
+]
