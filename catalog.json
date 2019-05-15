@@ -331,7 +331,7 @@
 },
 {
     "type": "style",
-    "name": "DragDrop",
+    "name": "dragdrop",
     "icon": "https://raw.githubusercontent.com/kleeja-official/dragdrop/master/screenshot.png",
     "title": {
         "en": "DragDrop",
@@ -355,7 +355,7 @@
 },
 {
     "type": "style",
-    "name": "Bootstrap_Black",
+    "name": "bootstrap_black",
     "icon": "https://raw.githubusercontent.com/kleeja-official/bootstrap-black/master/screenshot.png",
     "title": {
         "en": "Bootstrap Black",
