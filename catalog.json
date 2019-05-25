@@ -405,11 +405,11 @@
 	"icon": "https://raw.githubusercontent.com/kleeja-official/phpbb-integration/master/icon.png",
     "title": {
         "en": "phpBB Integration",
-        "ar": "التكامل مع VBulletin"
+        "ar": "التكامل مع phpBB"
     },
     "description": {
-        "en": "VBulletin Membership Integratione",
-        "ar": "التكامل مع phpBB"
+        "en": "phpBB Membership Integratione",
+        "ar": "التكامل مع عضويات phpBB"
     },
     "developer": "Kleeja Team",
     "website": "",
