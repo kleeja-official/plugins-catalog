@@ -446,7 +446,7 @@
 {
     "type": "plugin",
     "name": "kleeja_payment",
-	"icon": "./Masmak/images/plugin.png",
+	"icon": "https://raw.githubusercontent.com/kleeja-official/kleeja_payment/master/icon.png",
     "title": {
         "en": "Kleeja Payment",
         "ar": "مدفوعات كليجا"
