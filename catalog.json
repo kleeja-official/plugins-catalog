@@ -530,5 +530,27 @@
         "version": "1.0.1",
         "url": "https://github.com/kleeja-official/kjp_account_charger/archive/1.0.1.zip"
     }
+},
+{
+    "type": "plugin",
+    "name": "alternative_store",
+	"icon": "./Masmak/images/plugin.png",
+    "title": {
+        "en": "Alternative Store",
+        "ar": "المتجر البديل"
+    },
+    "description": {
+        "en": "Alternative Store for Kleeja",
+        "ar": "المتجر البديل لكليجا"
+    },
+    "developer": "Kleeja Team",
+    "website": "https://github.com/kleeja-official/alternative_store",
+    "kleeja_version": {
+        "min": "3.1.1", "max": "3.9"
+    },
+    "file": {
+        "version": "1.0",
+        "url": "https://github.com/kleeja-official/alternative_store/archive/1.0.zip"
+    }
 }
 ]
