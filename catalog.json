@@ -456,13 +456,13 @@
         "ar": "بيع الملفات والمجموعات المميزة"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://kleeja.net",
     "kleeja_version": {
         "min": "3.1.5", "max": "3.9"
     },
     "file": {
-        "version": "1.2.6",
-        "url": "https://github.com/kleeja-official/kleeja_payment/archive/1.2.6.zip"
+        "version": "1.2.7",
+        "url": "https://github.com/kleeja-official/kleeja_payment/archive/1.2.7.zip"
     }
 },
 {
